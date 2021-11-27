@@ -1,0 +1,20 @@
+html, body {
+	
+	margin: 0 auto;
+	width: 1200px;
+	color: #333;
+  background-color:beige;
+  }
+.navbar-inverse{
+  background-color:black;
+  height: 50px;
+}
+.bar{
+  display: inline;
+}
+div#content {
+    width: 700px;
+    margin:0 auto;
+	padding: 20px;
+	background-color: #EEE ; }
+
